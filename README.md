@@ -24,6 +24,7 @@ Results of international tournaments
 - [Таджикистан](countries/tojikiston.md)
 - [Туркменистан](countries/turkmenistan.md)
 - [Узбекистан](countries/uzbekiston.md)
+- [Черногория](countries/montenegro.md)
 - [Чехия](countries/cesko.md)
 - [Швейцария](countries/switzerland.md)
 - [Эстония](countries/eesti.md)
