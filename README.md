@@ -39,7 +39,7 @@ Results of international tournaments
 
 ## Школьные чемпионаты стран
 - Армения (TBD)
-- Беларусь (TBD)
+- [Беларусь](https://docs.google.com/spreadsheets/d/1mvgPsQd-OwGtkrqndf1PNDNkJZ-UOZUQoh5ekgw3f3M/edit?gid=51159091#gid=51159091)
 - Латвия (TBD)
 - [Россия](https://docs.google.com/spreadsheets/d/1Yev7SBgRrbVyEYrzTUdIslk08pO9MNVNcpP6ka6kvPY/edit?gid=1468554150#gid=1468554150)
 - Украина (TBD)
